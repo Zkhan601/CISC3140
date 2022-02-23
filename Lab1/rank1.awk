@@ -8,7 +8,8 @@ BEGIN{FS = ","
 		for (i = 8; i <= NF; ++i) {
 			total += $i
 		}
-        	print $7 "|" $4 "|" $5 "|" $6 "|" total;
+        	print $7,$4,$5,$6
+		 total;
 	}
 }
 END{}
