@@ -1,6 +1,5 @@
 BEGIN{FS = ","
       OFS = ","
-	print "Car_ID,Year,Car_Make,Car_Model,Total_Points,Ranking"
 }
 
 {
