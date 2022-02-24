@@ -13,6 +13,6 @@ if(make!= $4) {
 
 
 if(count <= 3) {
-	print ;
+	print $1,$2,$3,$4,$5,$6;
 	 count++}
 }
