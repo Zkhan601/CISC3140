@@ -1,0 +1,55 @@
+Rank,Car_ID,Year,Make,Model,Total
+4,113,2012,Acura,"Tsx sportwagon",116
+6,112,2008,Acura,TL,110
+8,50,2015,Acura,TLX,102
+3,15,2014,Audi,S4,120
+83,18,2015,Audi,S3,38
+98,116,2008,Audi,A4,28
+108,2,2016,Bmw,M2,24
+117,172,2014,Bmw,4,22
+140,111,2007,Bmw,328i,10
+33,218,2010,Chevy,Camaro,64
+55,170,2014,Chevy,Cruze,50
+167,0,2015,Chevy,Camaro,0
+11,216,2007,Chrystler,300,96
+149,42,2001,Dodge,Viper,8
+49,137,2017,Ford,"Focus rs",54
+94,120,2014,Ford,"Focus st",30
+104,219,2016,Ford,"Focus rs",26
+5,83,2014,Honda,Accord,112
+7,65,2009,Honda,Fit,106
+9,31,2007,Honda,Fit,102
+30,30,2012,Hyundai,Celoster,66
+40,38,2017,Hyundai,"Elantra sport",62
+95,92,2017,Hyundai,"Elantra sport",30
+1,128,2010,Infiniti,G37,128
+68,122,2011,Infiniti,M37s,44
+79,20,2009,Infiniti,G37,38
+2,124,2015,Jeep,Wrangler,124
+31,123,2006,Lexus,Sc430,66
+74,222,2015,Lexus,Is250,40
+146,190,1995,Lexus,Sc300,10
+59,52,2007,Mazda,"Speed 3",48
+86,78,2015,Mazda,6,36
+105,141,1993,Mazda,Miata,26
+22,25,2012,Mercedes,C250,78
+28,84,2012,Mercedes,Cl63amg,70
+88,17,2016,Mercedes,C43,34
+10,91,2010,Mitsu,Lancer,102
+63,140,1995,Mitsu,Evo8,44
+76,176,2014,Mitsu,Lancer,40
+12,228,2010,Nissan,370,92
+18,161,2012,Nissan,370z,84
+19,3,2011,Nissan,370,84
+21,57,2015,Scion,Frs,80
+121,235,2013,Scion,Frs,20
+24,36,2016,Subaru,WRX,74
+29,33,2015,Subaru,Sti,68
+37,21,2009,Subaru,WRX,62
+43,142,1993,Toyota,Supra,58
+44,110,2011,Toyota,Camry,58
+47,43,2011,Toyota,"4 Runner",54
+14,126,2010,Volkswagen,Eos,92
+20,180,2011,Volkswagen,Gti,82
+45,156,2014,Volkswagen,Gli,56
+116,100,2006,Volvo,S60r,22

@@ -177,7 +177,7 @@ select *
 from UnsortedRank
 where (
    select count(*) from UnsortedRank as f
-   where UnsortedRank = UnsortedRank.Make and f.Rank <= UnsortedRank.Rank
+   where f.make = UnsortedRank.Make and f.Rank <= UnsortedRank.Rank
 ) <= 3;
 
 
