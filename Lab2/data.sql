@@ -177,7 +177,11 @@ select *
 from UnsortedRank
 where (
    select count(*) from UnsortedRank as f
+<<<<<<< HEAD
    where f.make = UnsortedRank.Make and f.Rank <= UnsortedRank.Rank
+=======
+   where UnsortedRank = UnsortedRank.Make and f.Rank <= UnsortedRank.Rank
+>>>>>>> 3273f691715d5f7b6046fca6836d00d1d3c2726d
 ) <= 3;
 
 
