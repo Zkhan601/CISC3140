@@ -1,10 +1,10 @@
 # Lab2
 
-###Description
+### Description
 
 Using a csv file orgainze the car information by creating tables with SQLite and Linux
 
-###Files
+### Files
 data.csv
 data.sql
 Lab2.db
