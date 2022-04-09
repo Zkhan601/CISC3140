@@ -3,9 +3,7 @@ BEGIN {
 FS = ","
 OFS = ","
 
-print "Ranking,Car_ID,Year,Car_Make,Car_Model,Total"}
-
-
+}
 NR>1{
 
 if( sum != $5) 

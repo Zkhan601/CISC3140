@@ -9,7 +9,6 @@ Ranking,Car_ID,Year,Car_Make,Car_Model,Total_Points
 40,2,2016,Bmw,M2,24
 41,172,2014,Bmw,4,22
 47,111,2007,Bmw,328i,10
-Ranking,Car_ID,Year,Car_Make,Car_Model,Total
 20,218,2010,Chevy,Camaro,64
 27,170,2014,Chevy,Cruze,50
 52,0,2015,Chevy,Camaro,0
